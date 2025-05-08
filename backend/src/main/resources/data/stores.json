@@ -1,0 +1,32 @@
+[
+  {
+    "id": "S001",
+    "latitude": 62.68105543782657,
+    "longitude": 123.3281339904729,
+    "country": "Russia",
+    "max_stock_capacity": 10762,
+    "expected_return_rate": 0.01,
+    "demand": [
+      {
+        "productId": "1473/616/944",
+        "size": "6-7 YEARS (122 CM)",
+        "quantity": 7
+      },
+      {
+        "productId": "1473/616/944",
+        "size": "8-9 YEARS (131 CM)",
+        "quantity": 9
+      },
+      {
+        "productId": "1473/616/944",
+        "size": "9-10 YEARS (140 CM)",
+        "quantity": 14
+      },
+      {
+        "productId": "1473/616/944",
+        "size": "11-12 YEARS (148 CM)",
+        "quantity": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "W001",
+    "latitude": 39.26628212016817,
+    "longitude": 83.46184390644811,
+    "country": "China",
+    "stock": [
+      {
+        "productId": "1473/616/944",
+        "size": "9-10 YEARS (140 CM)",
+        "quantity": 39
+      },
+      {
+        "productId": "1266/553/000",
+        "size": "11-12 YEARS (148 CM)",
+        "quantity": 707
+      },
+      {
+        "productId": "1266/553/000",
+        "size": "12-13 YEARS (156 CM)",
+        "quantity": 962
+      },
+      {
+        "productId": "4586/530/002",
+        "size": "8-9 YEARS (131 CM)",
+        "quantity": 948
+      },
+      {
+        "productId": "4586/530/002",
+        "size": "9-10 YEARS (140 CM)",
+        "quantity": 654
+      },
+      {
+        "productId": "4586/530/002",
+        "size": "11-12 YEARS (148 CM)",
+        "quantity": 633
+      },
+      {
+        "productId": "4586/530/002",
+        "size": "12-13 YEARS (156 CM)",
+        "quantity": 956
+      },
+      {
+        "productId": "0752/164/200",
+        "size": "8-9 YEARS (131 CM)",
+        "quantity": 71
+      },
+      {
+        "productId": "0752/164/200",
+        "size": "12-13 YEARS (156 CM)",
+        "quantity": 38
+      },
+      {
+        "productId": "7521/618/305",
+        "size": "6-7 YEARS (122 CM)",
+        "quantity": 44
+      },
+      {
+        "productId": "7521/618/305",
+        "size": "8-9 YEARS (131 CM)",
+        "quantity": 91
+      }
+    ]
+  },
+  {
+    "id": "W002",
+    "latitude": 56.05847647307439,
+    "longitude": 24.121386685528734,
+    "country": "Lithuania",
+    "stock": [
+      {
+        "productId": "4424/620/066",
+        "size": "8-9 YEARS (131 CM)",
+        "quantity": 1178
+      },
+      {
+        "productId": "4424/620/066",
+        "size": "11-12 YEARS (148 CM)",
+        "quantity": 949
+      }
+    ]
+  }
+]

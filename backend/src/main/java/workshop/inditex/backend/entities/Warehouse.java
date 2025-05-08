@@ -6,9 +6,8 @@ public class Warehouse {
     private double latitude;
     private double longitude;
     private String country;
-    private Map<String, InventoryItem> stock;
+    private List<InventoryItem> stock;
 
-    // Getters and setters
     public String getId() {
         return id;
     }
@@ -41,12 +40,11 @@ public class Warehouse {
         this.country = country;
     }
 
-    public Map<String, InventoryItem> getStock() {
+    public List< InventoryItem> getStock() {
         return stock;
     }
 
-    public void setStock(Map<String, InventoryItem> stock) {
+    public void setStock(List<InventoryItem> stock) {
         this.stock = stock;
     }
-}{
 }
